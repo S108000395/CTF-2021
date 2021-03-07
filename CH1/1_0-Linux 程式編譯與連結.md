@@ -1,9 +1,8 @@
 # Linux - C 語言程式的編譯：
 
-### 前提動作
+### 安裝編譯器
 ```
-$ nasm -h
-$ sudo apt install nasm
+$ sudo apt install vim
 ```
 
 ### 範例 - [ helloCTFer.c ]：
